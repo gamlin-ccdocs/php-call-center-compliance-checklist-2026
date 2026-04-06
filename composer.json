@@ -1,0 +1,33 @@
+{
+    "name": "vicistack/call-center-compliance-checklist-2026",
+    "description": "Call Center Compliance Checklist: FTC, TCPA, TSR, and State Laws in 2026",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "vicidial",
+        "asterisk",
+        "call-center",
+        "voip",
+        "predictive-dialer",
+        "call",
+        "center",
+        "compliance",
+        "checklist",
+        "2026"
+    ],
+    "homepage": "https://vicistack.com/blog/call-center-compliance-checklist-2026/",
+    "authors": [
+        {
+            "name": "ViciStack",
+            "homepage": "https://vicistack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ViciStack\\CallCenterComplianceChecklist2026\\": "src/"
+        }
+    }
+}
